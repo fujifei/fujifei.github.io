@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:57024/private/</loc>
+    <loc>http://localhost:1313/private/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/private/private-20260227/</loc>
+    <loc>http://localhost:1313/private/private-20260227/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-02-27T14:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2025-02-27T14:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-02-27T14:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-27T14:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2025-02-27T14:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/posts/first-hugo-post/</loc>
+    <loc>http://localhost:1313/posts/first-hugo-post/</loc>
     <lastmod>2025-02-27T14:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2025-02-27T14:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:57024/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-02-27T14:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
