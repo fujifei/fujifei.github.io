@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/fujifei/.openclaw/**)",
+      "Bash(npx skills:*)"
+    ],
+    "additionalDirectories": [
+      "/Users/fujifei/.openclaw/workspace/skills"
+    ]
+  }
+}

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 春天的小池塘</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on 春天的小池塘</description>
+    <title>圆圆 on 春天的小池塘</title>
+    <link>http://localhost:1313/tags/%E5%9C%86%E5%9C%86/</link>
+    <description>Recent content in 圆圆 on 春天的小池塘</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%9C%86%E5%9C%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>圆圆喂小番茄</title>
       <link>http://localhost:1313/posts/yuanyuan-feed-tomatoes/</link>
@@ -32,13 +32,6 @@
 &lt;p&gt;圆圆喂了大概七八个小番茄，看我实在吃不下了，才停下来。然后她自己也拿起一个，小口小口地吃起来。&lt;/p&gt;
 &lt;p&gt;看着她认真吃小番茄的样子，我心里暖暖的。这种简单的幸福，大概就是为人父母最珍贵的时刻吧。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;后记&lt;/strong&gt;：圆圆现在2岁8个月，正处于喜欢模仿和分享的阶段。她看到大人喂她吃饭，现在也开始学着喂别人。虽然有时候喂得太多太快，但这份心意，比什么都珍贵。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我的第一篇 Hugo 博客</title>
-      <link>http://localhost:1313/posts/first-hugo-post/</link>
-      <pubDate>Thu, 27 Feb 2025 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/first-hugo-post/</guid>
-      <description>这是一篇测试文章，探索 Hugo 的强大功能</description>
     </item>
   </channel>
 </rss>

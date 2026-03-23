@@ -6,6 +6,91 @@
     <description>Recent content in 育儿 on 春天的小池塘</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E8%82%B2%E5%84%BF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>圆圆的关键字提取</title>
+      <link>http://localhost:1313/private/yuanyuan-keyword-extraction/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/private/yuanyuan-keyword-extraction/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;圆圆的关键字提取示意图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/private/yuanyuan-keyword-extraction/yuanyuan-keyword-diagram.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最近观察女儿圆圆（15个月）的语言发展，发现了一个有趣的现象：她在对话中会进行一种&amp;quot;关键字提取&amp;quot;——只回应对话中最核心的词汇，忽略其他修饰成分。这种简洁高效的语言处理方式，让我不禁联想到自然语言处理中的关键词提取算法。&lt;/p&gt;
+&lt;h2 id=&#34;日常对话中的关键字提取&#34;&gt;日常对话中的关键字提取&lt;/h2&gt;
+&lt;h3 id=&#34;场景一简单问答&#34;&gt;场景一：简单问答&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;爸爸&lt;/strong&gt;：回家不&lt;br&gt;
+&lt;strong&gt;圆圆&lt;/strong&gt;：家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;爸爸&lt;/strong&gt;：下车不&lt;br&gt;
+&lt;strong&gt;圆圆&lt;/strong&gt;：下&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;妈妈&lt;/strong&gt;：喝奶不&lt;br&gt;
+&lt;strong&gt;圆圆&lt;/strong&gt;：奶&lt;/p&gt;
+&lt;p&gt;在这些简单的问答中，圆圆准确地提取了每个问题的核心动词或名词。她的大脑似乎在进行这样的处理：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;接收完整的句子&lt;/li&gt;
+&lt;li&gt;识别最重要的信息单元&lt;/li&gt;
+&lt;li&gt;输出最简洁的回应&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;场景二复杂指令的过滤&#34;&gt;场景二：复杂指令的过滤&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;奶奶&lt;/strong&gt;：把尿不湿扔到垃圾桶&lt;br&gt;
+&lt;strong&gt;圆圆&lt;/strong&gt;：不要不要&lt;/p&gt;
+&lt;p&gt;这个例子更有趣。奶奶的指令包含多个动作：&amp;ldquo;把&amp;rdquo;、&amp;ldquo;扔到&amp;rdquo;、&amp;ldquo;垃圾桶&amp;rdquo;，但圆圆提取的关键字似乎是&amp;quot;尿不湿&amp;quot;和&amp;quot;垃圾桶&amp;quot;的组合，然后给出了拒绝的回应。这显示了她已经开始有自己的意愿和判断。&lt;/p&gt;
+&lt;h3 id=&#34;场景三情绪表达的关键词&#34;&gt;场景三：情绪表达的关键词&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;场景&lt;/strong&gt;：吃完火锅在电影院旁边的夹娃娃机旁边等爸爸上厕所，爸爸出来说走回家&lt;br&gt;
+&lt;strong&gt;圆圆&lt;/strong&gt;：不要不要&lt;br&gt;
+&lt;strong&gt;爸爸强行抱走，开始哇哇哭&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在这个复杂的场景中，圆圆从爸爸的长句中提取了&amp;quot;回家&amp;quot;这个关键词，然后表达了强烈的反对情绪。有趣的是，她不是简单地重复&amp;quot;回家&amp;quot;，而是用&amp;quot;不要不要&amp;quot;来表达自己的立场。&lt;/p&gt;
+&lt;h2 id=&#34;儿童语言发展的四个阶段&#34;&gt;儿童语言发展的四个阶段&lt;/h2&gt;
+&lt;p&gt;根据儿童语言发展理论，2-3岁儿童的语言能力通常经历以下阶段：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;单词句阶段&lt;/strong&gt;（12-18个月）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用单个词语表达完整意思&lt;/li&gt;
+&lt;li&gt;如：&amp;ldquo;奶&amp;quot;表示&amp;quot;我要喝奶&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;双词句阶段&lt;/strong&gt;（18-24个月）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开始组合两个词语&lt;/li&gt;
+&lt;li&gt;如：&amp;ldquo;妈妈抱&amp;rdquo;、&amp;ldquo;喝水水&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;电报句阶段&lt;/strong&gt;（24-30个月）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用关键词语，省略功能词&lt;/li&gt;
+&lt;li&gt;如：&amp;ldquo;圆圆吃饭&amp;rdquo;（省略&amp;quot;要&amp;quot;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;完整句阶段&lt;/strong&gt;（30-36个月）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开始使用较完整的句子&lt;/li&gt;
+&lt;li&gt;语法结构逐渐完善&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;圆圆目前处于电报句向完整句过渡的阶段，她的&amp;quot;关键字提取&amp;quot;行为正是这个阶段的典型特征。&lt;/p&gt;
+&lt;h2 id=&#34;从圆圆的关键字提取看nlp算法&#34;&gt;从圆圆的关键字提取看NLP算法&lt;/h2&gt;
+&lt;p&gt;圆圆的语言处理方式让我联想到自然语言处理中的几种技术：&lt;/p&gt;
+&lt;h3 id=&#34;1-tf-idf词频-逆文档频率&#34;&gt;1. TF-IDF（词频-逆文档频率）&lt;/h3&gt;
+&lt;p&gt;圆圆似乎本能地知道哪些词更重要。在&amp;quot;把尿不湿扔到垃圾桶&amp;quot;中，&amp;ldquo;尿不湿&amp;quot;和&amp;quot;垃圾桶&amp;quot;的&amp;quot;权重&amp;quot;显然高于&amp;quot;把&amp;quot;和&amp;quot;扔到&amp;rdquo;。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 简化的TF-IDF概念示例&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;extract_keywords&lt;/span&gt;(sentence):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;# 儿童大脑的&amp;#34;停用词表&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    stop_words &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;把&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;到&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;的&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;在&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;旁边&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;# 提取重要词汇&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    important_words &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; [word &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; word &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; sentence&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;split() 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                      &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; word &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; stop_words]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; important_words
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 示例&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sentence &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;把尿不湿扔到垃圾桶&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;keywords &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; extract_keywords(sentence)  &lt;span style=&#34;color:#75715e&#34;&gt;# 返回: [&amp;#34;尿不湿&amp;#34;, &amp;#34;垃圾桶&amp;#34;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;2-注意力机制attention-mechanism&#34;&gt;2. 注意力机制（Attention Mechanism）&lt;/h3&gt;
+&lt;p&gt;现代深度学习中的注意力机制与圆圆的语言处理有相似之处。她的大脑似乎有一个&amp;quot;注意力权重分配系统&amp;quot;，能够聚焦于句子中最相关的部分。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
